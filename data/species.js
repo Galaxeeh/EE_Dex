@@ -8462,7 +8462,7 @@ exports.BattlePokedex = {
         "heightm": 2.0,
         "weightkg": 128.6,
         "prevo": "Tangela",
-        "evoMove": "Shadow Ball",
+        "evoMove": "Ancient Power",
         "evoType": "levelMove",
         "evoCondition": ""
     },
@@ -8919,7 +8919,7 @@ exports.BattlePokedex = {
             "Mr. Mime-Galar"
         ],
         "prevo": "Mime Jr.",
-        "evoMove": "Wish",
+        "evoMove": "Role Play",
         "evoType": "levelMove",
         "evoCondition": ""
     },
@@ -13007,7 +13007,7 @@ exports.BattlePokedex = {
         "heightm": 1.2,
         "weightkg": 20.3,
         "prevo": "Aipom",
-        "evoMove": "Roar of Time",
+        "evoMove": "Double Hit",
         "evoType": "levelMove",
         "evoCondition": ""
     },
@@ -13169,7 +13169,7 @@ exports.BattlePokedex = {
         "heightm": 1.9,
         "weightkg": 51.5,
         "prevo": "Yanma",
-        "evoMove": "Shadow Ball",
+        "evoMove": "Ancient Power",
         "evoType": "levelMove",
         "evoCondition": ""
     },
@@ -13749,7 +13749,7 @@ exports.BattlePokedex = {
         "heightm": 3.2,
         "weightkg": 160.0,
         "prevo": "Girafarig",
-        "evoMove": "Rage Fist",
+        "evoMove": "Twin Beam",
         "evoType": "levelMove",
         "evoCondition": ""
     },
@@ -13916,7 +13916,7 @@ exports.BattlePokedex = {
             "Dudunsparce-Three-Segment"
         ],
         "prevo": "Dunsparce",
-        "evoMove": "Twin Beam",
+        "evoMove": "Hyper Drill",
         "evoType": "levelMove",
         "evoCondition": "if two-segmented"
     },
@@ -13958,7 +13958,7 @@ exports.BattlePokedex = {
         "baseSpecies": "Dudunsparce",
         "forme": "Three-Segment",
         "prevo": "Dunsparce",
-        "evoMove": "Twin Beam",
+        "evoMove": "Hyper Drill",
         "evoType": "levelMove",
         "evoCondition": "if three-segmented"
     },
@@ -14242,7 +14242,7 @@ exports.BattlePokedex = {
         "heightm": 2.5,
         "weightkg": 60.5,
         "prevo": "Qwilfish-Hisui",
-        "evoMove": "Esper Wing",
+        "evoMove": "Barb Barrage",
         "evoType": "levelMove",
         "evoCondition": ""
     },
@@ -14911,7 +14911,7 @@ exports.BattlePokedex = {
         "heightm": 2.5,
         "weightkg": 291.0,
         "prevo": "Piloswine",
-        "evoMove": "Shadow Ball",
+        "evoMove": "Ancient Power",
         "evoType": "levelMove",
         "evoCondition": ""
     },
@@ -15559,7 +15559,7 @@ exports.BattlePokedex = {
         "heightm": 1.8,
         "weightkg": 95.1,
         "prevo": "Stantler",
-        "evoMove": "Power Shift",
+        "evoMove": "Psyshield Bash",
         "evoType": "useMove",
         "evoCondition": "20 times"
     },
@@ -43288,7 +43288,7 @@ exports.BattlePokedex = {
         "heightm": 3.6,
         "weightkg": 150.0,
         "prevo": "Poipole",
-        "evoMove": "Dragon Rush",
+        "evoMove": "Dragon Pulse",
         "evoType": "levelMove",
         "evoCondition": ""
     },
@@ -45324,7 +45324,7 @@ exports.BattlePokedex = {
         "heightm": 1.8,
         "weightkg": 93.0,
         "prevo": "Dipplin",
-        "evoMove": "Alluring Voice",
+        "evoMove": "Dragon Cheer",
         "evoType": "levelMove",
         "evoCondition": ""
     },
@@ -46070,7 +46070,7 @@ exports.BattlePokedex = {
         "heightm": 1.6,
         "weightkg": 39.0,
         "prevo": "Clobbopus",
-        "evoMove": "Helping Hand",
+        "evoMove": "Taunt",
         "evoType": "levelMove",
         "evoCondition": ""
     },

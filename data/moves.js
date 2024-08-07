@@ -4129,14 +4129,14 @@ exports.BattleMovedex = {
         "shortDesc": "Heals the user by a weather-dependent amount."
     },
     "hiddenpower": {
-        "num": 855,
+        "num": 237,
         "flags": {
             "protect": 1,
             "mirror": 1
         },
         "name": "Hidden Power",
         "basePower": 60,
-        "type": "Rock",
+        "type": "Normal",
         "accuracy": 100,
         "pp": 15,
         "priority": 0,
