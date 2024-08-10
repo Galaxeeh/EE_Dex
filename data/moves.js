@@ -248,8 +248,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Has a higher chance for a critical hit. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn.",
-        "shortDesc": "Charges, then hits foe(s) turn 2. High crit ratio."
+        "desc": "No additional effect.",
+        "shortDesc": "No additional effect."
     },
     "swordsdance": {
         "num": 14,
@@ -1192,8 +1192,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded half up, but not less than 1 HP.",
-        "shortDesc": "Has 1/4 recoil."
+        "desc": "No additional effect.",
+        "shortDesc": "No additional effect."
     },
     "lowkick": {
         "num": 67,
@@ -2519,8 +2519,8 @@ exports.BattleMovedex = {
         "category": "Physical",
         "critRatio": 2,
         "contestType": "Cool",
-        "desc": "Has a 30% chance to make the target flinch and a higher chance for a critical hit. This attack charges on the first turn and executes on the second. If the user is holding a Power Herb, the move completes in one turn.",
-        "shortDesc": "Charges, then hits turn 2. 30% flinch. High crit."
+        "desc": "If this attack is not successful, the user loses half of its maximum HP, rounded down, as crash damage. Pokemon with the Magic Guard Ability are unaffected by crash damage.",
+        "shortDesc": "User is hurt by 50% of its max HP if it misses."
     },
     "transform": {
         "num": 144,
@@ -4345,8 +4345,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Tough",
-        "desc": "Has a 50% chance to lower the target's Defense by 1 stage.",
-        "shortDesc": "50% chance to lower the target's Defense by 1."
+        "desc": "Has a 100% chance to lower the target's Defense by 1 stage.",
+        "shortDesc": "100% chance to lower the target's Defense by 1."
     },
     "whirlpool": {
         "num": 250,
@@ -4883,8 +4883,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Status",
         "contestType": "Cute",
-        "desc": "Causes the target to fall asleep at the end of the next turn. Fails when used if the target cannot fall asleep or if it already has a non-volatile status condition. At the end of the next turn, if the target is still active, does not have a non-volatile status condition, and can fall asleep, it falls asleep. If the target becomes affected, this effect cannot be prevented by Safeguard or a substitute, or by falling asleep and waking up during the effect.",
-        "shortDesc": "Puts the target to sleep after 1 turn."
+        "desc": "Causes the target to fall asleep.",
+        "shortDesc": "Causes the target to fall asleep."
     },
     "knockoff": {
         "num": 282,
@@ -5316,8 +5316,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cool",
-        "desc": "Has a 50% chance to lower the target's Defense by 1 stage.",
-        "shortDesc": "50% chance to lower the target's Defense by 1."
+        "desc": "Has a 20% chance to lower the target's Defense by 1 stage.",
+        "shortDesc": "20% chance to lower the target's Defense by 1."
     },
     "blastburn": {
         "num": 307,
@@ -5970,8 +5970,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
-        "desc": "If this attack was successful and the user has not fainted, it steals the target's held item if the user is not holding one. The target's item is not stolen if it is a Mail or Z-Crystal, or if the target is a Kyogre holding a Blue Orb, a Groudon holding a Red Orb, a Giratina holding a Griseous Orb, an Arceus holding a Plate, a Genesect holding a Drive, a Silvally holding a Memory, or a Pokemon that can Mega Evolve holding the Mega Stone for its species. Items lost to this move cannot be regained with Recycle or the Harvest Ability.",
-        "shortDesc": "If the user has no item, it steals the target's."
+        "desc": "No additional effect.",
+        "shortDesc": "No additional effect."
     },
     "volttackle": {
         "num": 344,
@@ -6809,8 +6809,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Status",
         "contestType": "Beauty",
-        "desc": "The user has 1/16 of its maximum HP, rounded down, restored at the end of each turn while it remains active. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down. If the user uses Baton Pass, the replacement will receive the healing effect.",
-        "shortDesc": "User recovers 1/16 max HP per turn."
+        "desc": "The user restores 1/2 of its maximum HP, rounded half up.",
+        "shortDesc": "Heals the user by 50% of its max HP."
     },
     "magnetrise": {
         "num": 393,
@@ -7027,8 +7027,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Beauty",
-        "desc": "No additional effect.",
-        "shortDesc": "No additional effect."
+        "desc": "Has a higher chance for a critical hit.",
+        "shortDesc": "High critical hit ratio."
     },
     "bugbuzz": {
         "num": 405,
@@ -9234,8 +9234,8 @@ exports.BattleMovedex = {
         "priority": 0,
         "category": "Physical",
         "contestType": "Cute",
-        "desc": "Has a 30% chance to make the target flinch.",
-        "shortDesc": "30% chance to make the target flinch."
+        "desc": "Has a 100% chance to lower the target's Defense by 1 stage.",
+        "shortDesc": "100% chance to lower the target's Defense by 1."
     },
     "hornleech": {
         "num": 532,
@@ -14050,8 +14050,8 @@ exports.BattleMovedex = {
         "pp": 10,
         "priority": 0,
         "category": "Physical",
-        "desc": "Power is equal to 50+(X*50), where X is the total number of times the user has been hit by a damaging attack during the battle, even if the user did not lose HP from the attack. X cannot be greater than 6 and does not reset upon switching out or fainting. Each hit of a multi-hit attack is counted, but confusion damage is not counted.",
-        "shortDesc": "+50 power for each time user was hit. Max 6 hits."
+        "desc": "No additional effect.",
+        "shortDesc": "No additional effect."
     },
     "armorcannon": {
         "num": 816,
