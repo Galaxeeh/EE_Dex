@@ -14867,7 +14867,7 @@ exports.BattlePokedex = {
         "heightm": 1.1,
         "weightkg": 55.8,
         "prevo": "Swinub",
-        "evoLevel": 33,
+        "evoLevel": 27,
         "evoType": "level",
         "evoCondition": "",
         "evos": [
@@ -44977,7 +44977,7 @@ exports.BattlePokedex = {
             "Coalossal-Gmax"
         ],
         "prevo": "Carkol",
-        "evoLevel": 34,
+        "evoLevel": 39,
         "evoType": "level",
         "evoCondition": ""
     },

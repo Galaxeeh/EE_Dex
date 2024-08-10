@@ -52898,14 +52898,14 @@ exports.BattleLearnsets = {
             "avalanche": [
                 "L29"
             ],
-            "ancientpower": [
-                "L33"
-            ],
             "haze": [
-                "L37"
+                "L34"
             ],
             "superpower": [
-                "L40"
+                "L38"
+            ],
+            "highhorsepower": [
+                "L42"
             ],
             "earthquake": [
                 "L45",
