@@ -5785,7 +5785,7 @@ exports.BattleItems = {
         },
         "num": 1123,
         "gen": 8,
-        "desc": "The holder ignores rain- and sun-based effects. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder.",
+        "desc": "The holder ignores rain- and sun-based effects. Damage and accuracy calculations from attacks used by and against the holder ignore rain and sun.",
         "shortDesc": "The holder ignores rain- and sun-based effects."
     },
     "venusaurite": {

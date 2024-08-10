@@ -1240,8 +1240,8 @@ exports.BattleAbilities = {
         "name": "Leaf Guard",
         "rating": 0.5,
         "num": 102,
-        "desc": "If Sunny Day is active, this Pokemon cannot become affected by a non-volatile status condition or Yawn, and Rest will fail for it. This effect is prevented if this Pokemon is holding a Utility Umbrella.",
-        "shortDesc": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+        "desc": "This Pokemon cannot be struck by a critical hit. If Sunny Day is active, this Pokemon cannot become affected by a non-volatile status condition or Yawn, and Rest will fail for it. The second effect is prevented if this Pokemon is holding a Utility Umbrella.",
+        "shortDesc": "This Pokemon cannot be struck by a critical hit. If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
     },
     "levitate": {
         "flags": {
@@ -1361,8 +1361,8 @@ exports.BattleAbilities = {
         "name": "Magma Armor",
         "rating": 0.5,
         "num": 40,
-        "desc": "This Pokemon cannot be frozen. Gaining this Ability while frozen cures it.",
-        "shortDesc": "This Pokemon cannot be frozen. Gaining this Ability while frozen cures it."
+        "desc": "This Pokemon cannot be frozen or struck by a critical hit. Gaining this Ability while frozen cures it.",
+        "shortDesc": "This Pokemon cannot be frozen or struck by a critical hit. Gaining this Ability while frozen cures it."
     },
     "magnetpull": {
         "flags": {},
