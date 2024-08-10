@@ -4752,8 +4752,8 @@ exports.BattlePokedex = {
         "weightkg": 33.9,
         "prevo": "Poliwhirl",
         "evoItem": "King's Rock",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "abra": {
         "num": 63,
@@ -5904,9 +5904,9 @@ exports.BattlePokedex = {
             "Slowking-Galar"
         ],
         "prevo": "Slowpoke",
-        "evoItem": "King's Rock",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoItem": "Water Stone",
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "slowbromega": {
         "num": 80,
@@ -7052,8 +7052,8 @@ exports.BattlePokedex = {
         ],
         "prevo": "Onix",
         "evoItem": "Metal Coat",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "steelixmega": {
         "num": 208,
@@ -8261,8 +8261,8 @@ exports.BattlePokedex = {
         "weightkg": 282.8,
         "prevo": "Rhydon",
         "evoItem": "Protector",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "happiny": {
         "num": 440,
@@ -8677,8 +8677,8 @@ exports.BattlePokedex = {
         "weightkg": 152.0,
         "prevo": "Seadra",
         "evoItem": "Dragon Scale",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "goldeen": {
         "num": 118,
@@ -9092,8 +9092,8 @@ exports.BattlePokedex = {
         ],
         "prevo": "Scyther",
         "evoItem": "Metal Coat",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "scizormega": {
         "num": 212,
@@ -9373,8 +9373,8 @@ exports.BattlePokedex = {
         "weightkg": 138.6,
         "prevo": "Electabuzz",
         "evoItem": "Electirizer",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "magby": {
         "num": 240,
@@ -9495,8 +9495,8 @@ exports.BattlePokedex = {
         "weightkg": 68.0,
         "prevo": "Magmar",
         "evoItem": "Magmarizer",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "pinsir": {
         "num": 127,
@@ -10499,8 +10499,8 @@ exports.BattlePokedex = {
         "weightkg": 32.5,
         "prevo": "Porygon",
         "evoItem": "Upgrade",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding",
+        "evoType": "useItem",
+        "evoCondition": "",
         "evos": [
             "Porygon-Z"
         ]
@@ -10539,8 +10539,8 @@ exports.BattlePokedex = {
         "weightkg": 34.0,
         "prevo": "Porygon2",
         "evoItem": "Dubious Disc",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "omanyte": {
         "num": 138,
@@ -20822,8 +20822,9 @@ exports.BattlePokedex = {
         "heightm": 6.2,
         "weightkg": 162.0,
         "prevo": "Feebas",
-        "evoType": "levelExtra",
-        "evoCondition": "with maximum Beauty"
+        "evoItem": "Prism Scale",
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "castform": {
         "num": 351,
@@ -21277,8 +21278,8 @@ exports.BattlePokedex = {
         "weightkg": 106.6,
         "prevo": "Dusclops",
         "evoItem": "Reaper Cloth",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "tropius": {
         "num": 357,
@@ -21850,8 +21851,8 @@ exports.BattlePokedex = {
         "weightkg": 27.0,
         "prevo": "Clamperl",
         "evoItem": "Deep Sea Tooth",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "gorebyss": {
         "num": 368,
@@ -21891,8 +21892,8 @@ exports.BattlePokedex = {
         "weightkg": 22.6,
         "prevo": "Clamperl",
         "evoItem": "Deep Sea Scale",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "relicanth": {
         "num": 369,
@@ -36455,8 +36456,8 @@ exports.BattlePokedex = {
         "weightkg": 15.5,
         "prevo": "Spritzee",
         "evoItem": "Sachet",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "swirlix": {
         "num": 684,
@@ -36532,8 +36533,8 @@ exports.BattlePokedex = {
         "weightkg": 5.0,
         "prevo": "Swirlix",
         "evoItem": "Whipped Dream",
-        "evoType": "tradeItem",
-        "evoCondition": "while holding"
+        "evoType": "useItem",
+        "evoCondition": ""
     },
     "inkay": {
         "num": 686,
