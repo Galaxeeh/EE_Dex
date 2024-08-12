@@ -15880,7 +15880,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
-            "1": "Frisk",
             "H": "Sap Sipper"
         },
         "color": "Brown",
@@ -15922,7 +15921,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
-            "1": "Frisk",
             "H": "Sap Sipper"
         },
         "color": "Gray",
@@ -15931,8 +15929,8 @@ exports.BattlePokedex = {
         "weightkg": 95.1,
         "prevo": "Stantler",
         "evoMove": "Psyshield Bash",
-        "evoType": "useMove",
-        "evoCondition": "20 times",
+        "evoType": "levelMove",
+        "evoCondition": "",
         "tier": "unobtainable"
     },
     "smeargle": {
@@ -28710,7 +28708,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Gluttony",
-            "H": "Overgrow"
+            "1": "Overgrow",
+            "H": "Adaptability"
         },
         "color": "Green",
         "name": "Pansage",
@@ -28749,7 +28748,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Gluttony",
-            "H": "Overgrow"
+            "1": "Overgrow",
+            "H": "Adaptability"
         },
         "color": "Green",
         "name": "Simisage",
@@ -28789,7 +28789,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Gluttony",
-            "H": "Blaze"
+            "1": "Blaze",
+            "H": "Adaptability"
         },
         "color": "Red",
         "name": "Pansear",
@@ -28828,7 +28829,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Gluttony",
-            "H": "Blaze"
+            "1": "Blaze",
+            "H": "Adaptability"
         },
         "color": "Red",
         "name": "Simisear",
@@ -28868,7 +28870,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Gluttony",
-            "H": "Torrent"
+            "1": "Torrent",
+            "H": "Adaptability"
         },
         "color": "Blue",
         "name": "Panpour",
@@ -28907,7 +28910,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Gluttony",
-            "H": "Torrent"
+            "1": "Torrent",
+            "H": "Adaptability"
         },
         "color": "Blue",
         "name": "Simipour",
@@ -51229,8 +51233,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Flash Fire",
-            "H": "Flame Body"
+            "0": "Flame Body",
+            "H": "Flash Fire"
         },
         "color": "Red",
         "name": "Charcadet",
@@ -51270,8 +51274,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Flash Fire",
-            "H": "Weak Armor"
+            "0": "Weak Armor",
+            "H": "Flash Fire"
         },
         "color": "Red",
         "name": "Armarouge",
@@ -51311,8 +51315,8 @@ exports.BattlePokedex = {
             "F": 0.5
         },
         "abilities": {
-            "0": "Flash Fire",
-            "H": "Weak Armor"
+            "0": "Weak Armor",
+            "H": "Flash Fire"
         },
         "color": "Purple",
         "name": "Ceruledge",

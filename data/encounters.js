@@ -1005,8 +1005,8 @@ exports.BattleLocationdex = {
             ]
         }
     },
-    "route1111": {
-        "name": "Route 1111",
+    "route111oasis": {
+        "name": "Route 111 - Oasis",
         "land": {
             "baseRate": 10,
             "encs": [
@@ -1982,8 +1982,8 @@ exports.BattleLocationdex = {
             ]
         }
     },
-    "petalburgwoods": {
-        "name": "Petalburg Woods",
+    "petalburgwoodsshortgrass": {
+        "name": "Petalburg Woods Short Grass",
         "land": {
             "baseRate": 20,
             "encs": [
@@ -2053,8 +2053,8 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {}
     },
-    "petalburgwoods1": {
-        "name": "Petalburg Woods 1",
+    "petalburgwoodslonggrass": {
+        "name": "Petalburg Woods Long Grass",
         "land": {
             "baseRate": 20,
             "encs": [
@@ -3036,6 +3036,36 @@ exports.BattleLocationdex = {
             "baseRate": 20,
             "encs": [
                 {
+                    "species": "numel",
+                    "minLvl": 27,
+                    "maxLvl": 29
+                },
+                {
+                    "species": "stantler",
+                    "minLvl": 27,
+                    "maxLvl": 29
+                },
+                {
+                    "species": "charcadet",
+                    "minLvl": 27,
+                    "maxLvl": 29
+                },
+                {
+                    "species": "pansear",
+                    "minLvl": 27,
+                    "maxLvl": 29
+                },
+                {
+                    "species": "taurospaldeacombatbreed",
+                    "minLvl": 27,
+                    "maxLvl": 29
+                },
+                {
+                    "species": "taurospaldeablazebreed",
+                    "minLvl": 27,
+                    "maxLvl": 29
+                },
+                {
                     "species": "vibrava",
                     "minLvl": 27,
                     "maxLvl": 29
@@ -3046,42 +3076,12 @@ exports.BattleLocationdex = {
                     "maxLvl": 29
                 },
                 {
-                    "species": "jangmoo",
-                    "minLvl": 27,
-                    "maxLvl": 29
-                },
-                {
-                    "species": "tyrunt",
-                    "minLvl": 27,
-                    "maxLvl": 29
-                },
-                {
-                    "species": "gible",
-                    "minLvl": 27,
-                    "maxLvl": 29
-                },
-                {
-                    "species": "bagon",
-                    "minLvl": 27,
-                    "maxLvl": 29
-                },
-                {
-                    "species": "axew",
-                    "minLvl": 27,
-                    "maxLvl": 29
-                },
-                {
-                    "species": "larvitar",
-                    "minLvl": 27,
-                    "maxLvl": 29
-                },
-                {
                     "species": "turtonator",
                     "minLvl": 27,
                     "maxLvl": 29
                 },
                 {
-                    "species": "deino",
+                    "species": "tyrunt",
                     "minLvl": 27,
                     "maxLvl": 29
                 },
@@ -12196,8 +12196,8 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {}
     },
-    "petalburgcave0": {
-        "name": "Petalburg Cave 0",
+    "petalburgcave": {
+        "name": "Petalburg Cave",
         "land": {
             "baseRate": 20,
             "encs": [
@@ -12291,42 +12291,6 @@ exports.BattleLocationdex = {
                     "species": "dwebble",
                     "minLvl": 14,
                     "maxLvl": 16
-                }
-            ]
-        },
-        "fish": {}
-    },
-    "petalburgcave1": {
-        "name": "Petalburg Cave 1",
-        "land": {},
-        "surf": {},
-        "rock": {
-            "baseRate": 0,
-            "encs": [
-                {
-                    "species": "missingno",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "missingno",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "missingno",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "missingno",
-                    "minLvl": 5,
-                    "maxLvl": 5
-                },
-                {
-                    "species": "missingno",
-                    "minLvl": 5,
-                    "maxLvl": 5
                 }
             ]
         },
@@ -12474,8 +12438,8 @@ exports.BattleLocationdex = {
         "rock": {},
         "fish": {}
     },
-    "petalburgcaveb1f0": {
-        "name": "Petalburg Cave B1F0",
+    "petalburgcaveb1f": {
+        "name": "Petalburg Cave B1F",
         "land": {
             "baseRate": 20,
             "encs": [
@@ -12861,7 +12825,7 @@ exports.BattleLocationdex = {
                 },
                 {
                     "species": "pignite",
-                    "minLvl": 5,
+                    "minLvl": 23,
                     "maxLvl": 25
                 }
             ]
@@ -12877,62 +12841,62 @@ exports.BattleLocationdex = {
             "encs": [
                 {
                     "species": "capsakid",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
-                    "species": "ivysaur",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "species": "bulbasaur",
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
-                    "species": "grotle",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "species": "turtwig",
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
-                    "species": "grovyle",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "species": "treecko",
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
                     "species": "pansage",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
                     "species": "roselia",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
                     "species": "petilil",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
-                    "species": "dolliv",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "species": "smoliv",
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
                     "species": "tangela",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
-                    "species": "floragato",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "species": "sprigatito",
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
                     "species": "sunkern",
-                    "minLvl": 23,
-                    "maxLvl": 25
+                    "minLvl": 13,
+                    "maxLvl": 16
                 },
                 {
                     "species": "sunflora",
-                    "minLvl": 23,
+                    "minLvl": 20,
                     "maxLvl": 25
                 }
             ]
