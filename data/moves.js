@@ -1439,12 +1439,12 @@ exports.BattleMovedex = {
         "basePower": 120,
         "type": "Grass",
         "accuracy": 100,
-        "pp": 10,
+        "pp": 15,
         "priority": 0,
         "category": "Special",
         "contestType": "Beauty",
-        "desc": "The user spends two or three turns locked into this move and becomes confused immediately after its move on the last turn of the effect if it is not already. This move targets an opposing Pokemon at random on each turn. If the user is prevented from moving, is asleep at the beginning of a turn, or the attack is not successful against the target on the first turn of the effect or the second turn of a three-turn effect, the effect ends without causing confusion. If this move is called by Sleep Talk and the user is asleep, the move is used for one turn and does not confuse the user.",
-        "shortDesc": "Lasts 2-3 turns. Confuses the user afterwards."
+        "desc": "If the target lost HP, the user takes recoil damage equal to 33% the HP lost by the target, rounded half up, but not less than 1 HP.",
+        "shortDesc": "Has 33% recoil."
     },
     "stringshot": {
         "num": 81,
@@ -7076,7 +7076,7 @@ exports.BattleMovedex = {
         "name": "Dragon Rush",
         "basePower": 100,
         "type": "Dragon",
-        "accuracy": 75,
+        "accuracy": 85,
         "pp": 10,
         "priority": 0,
         "category": "Physical",
@@ -9669,7 +9669,7 @@ exports.BattleMovedex = {
         "name": "Icicle Crash",
         "basePower": 85,
         "type": "Ice",
-        "accuracy": 90,
+        "accuracy": 100,
         "pp": 10,
         "priority": 0,
         "category": "Physical",

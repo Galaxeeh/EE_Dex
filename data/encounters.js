@@ -3037,62 +3037,62 @@ exports.BattleLocationdex = {
             "encs": [
                 {
                     "species": "numel",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
                     "species": "stantler",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
                     "species": "charcadet",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
                     "species": "pansear",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
-                    "species": "taurospaldeacombatbreed",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "species": "taurospaldeaaquabreed",
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
                     "species": "taurospaldeablazebreed",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
                     "species": "vibrava",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
-                    "species": "noibat",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "species": "taurospaldeacombatbreed",
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
                     "species": "turtonator",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
                     "species": "tyrunt",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
                     "species": "druddigon",
-                    "minLvl": 27,
-                    "maxLvl": 29
+                    "minLvl": 23,
+                    "maxLvl": 25
                 },
                 {
                     "species": "torkoal",
-                    "minLvl": 27,
+                    "minLvl": 23,
                     "maxLvl": 29
                 }
             ]

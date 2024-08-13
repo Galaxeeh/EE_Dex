@@ -29,6 +29,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Overgrow",
+            "1": "Thick Fat",
             "H": "Chlorophyll"
         },
         "color": "Green",
@@ -71,6 +72,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Overgrow",
+            "1": "Thick Fat",
             "H": "Chlorophyll"
         },
         "color": "Green",
@@ -117,6 +119,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Overgrow",
+            "1": "Thick Fat",
             "H": "Chlorophyll"
         },
         "color": "Green",
@@ -9881,8 +9884,7 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
-            "1": "Anger Point",
-            "H": "Cud Chew"
+            "H": "Anger Point"
         },
         "color": "Black",
         "name": "Tauros-Paldea-Combat-Breed",
@@ -9890,7 +9892,7 @@ exports.BattlePokedex = {
         "weightkg": 115.0,
         "baseSpecies": "Tauros",
         "forme": "Paldea-Combat-Breed",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "taurospaldeablazebreed": {
         "num": 128,
@@ -9921,8 +9923,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
-            "1": "Anger Point",
-            "H": "Cud Chew"
+            "1": "Cud Chew",
+            "H": "Anger Point"
         },
         "color": "Black",
         "name": "Tauros-Paldea-Blaze-Breed",
@@ -9930,7 +9932,7 @@ exports.BattlePokedex = {
         "weightkg": 85.0,
         "baseSpecies": "Tauros",
         "forme": "Paldea-Blaze-Breed",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "taurospaldeaaquabreed": {
         "num": 128,
@@ -9961,8 +9963,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Intimidate",
-            "1": "Anger Point",
-            "H": "Cud Chew"
+            "1": "Cud Chew",
+            "H": "Anger Point"
         },
         "color": "Black",
         "name": "Tauros-Paldea-Aqua-Breed",
@@ -9970,7 +9972,7 @@ exports.BattlePokedex = {
         "weightkg": 110.0,
         "baseSpecies": "Tauros",
         "forme": "Paldea-Aqua-Breed",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "magikarp": {
         "num": 129,
@@ -15889,7 +15891,7 @@ exports.BattlePokedex = {
         "evos": [
             "Wyrdeer"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "wyrdeer": {
         "num": 899,
@@ -15931,7 +15933,7 @@ exports.BattlePokedex = {
         "evoMove": "Psyshield Bash",
         "evoType": "levelMove",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "smeargle": {
         "num": 235,
@@ -20226,8 +20228,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "White Smoke",
-            "1": "Drought",
-            "H": "Shell Armor"
+            "1": "Shell Armor",
+            "H": "Drought"
         },
         "color": "Brown",
         "name": "Torkoal",
@@ -23533,7 +23535,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Overgrow",
-            "H": "Shell Armor"
+            "1": "Shell Armor",
+            "H": "Rock Head"
         },
         "color": "Green",
         "name": "Turtwig",
@@ -23574,7 +23577,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Overgrow",
-            "H": "Shell Armor"
+            "1": "Shell Armor",
+            "H": "Rock Head"
         },
         "color": "Green",
         "name": "Grotle",
@@ -23620,7 +23624,8 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Overgrow",
-            "H": "Shell Armor"
+            "1": "Shell Armor",
+            "H": "Rock Head"
         },
         "color": "Green",
         "name": "Torterra",
@@ -28799,7 +28804,7 @@ exports.BattlePokedex = {
         "evos": [
             "Simisear"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "simisear": {
         "num": 514,
@@ -28840,7 +28845,7 @@ exports.BattlePokedex = {
         "evoItem": "Fire Stone",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "panpour": {
         "num": 515,
@@ -37931,7 +37936,7 @@ exports.BattlePokedex = {
         "prevo": "Tyrunt",
         "evoLevel": 39,
         "evoType": "level",
-        "evoCondition": "during the day",
+        "evoCondition": "",
         "tier": "obtainable"
     },
     "amaura": {
@@ -38012,7 +38017,7 @@ exports.BattlePokedex = {
         "prevo": "Amaura",
         "evoLevel": 39,
         "evoType": "level",
-        "evoCondition": "at night",
+        "evoCondition": "",
         "tier": "unobtainable"
     },
     "hawlucha": {
@@ -51244,7 +51249,7 @@ exports.BattlePokedex = {
             "Armarouge",
             "Ceruledge"
         ],
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "armarouge": {
         "num": 936,
@@ -51285,7 +51290,7 @@ exports.BattlePokedex = {
         "evoItem": "Auspicious Armor",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "ceruledge": {
         "num": 937,
@@ -51326,7 +51331,7 @@ exports.BattlePokedex = {
         "evoItem": "Malicious Armor",
         "evoType": "useItem",
         "evoCondition": "",
-        "tier": "unobtainable"
+        "tier": "obtainable"
     },
     "tadbulb": {
         "num": 938,
@@ -51886,7 +51891,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Chlorophyll",
-            "1": "Insomnia",
             "H": "Klutz"
         },
         "color": "Green",
@@ -51927,7 +51931,6 @@ exports.BattlePokedex = {
         },
         "abilities": {
             "0": "Chlorophyll",
-            "1": "Insomnia",
             "H": "Moody"
         },
         "color": "Green",
